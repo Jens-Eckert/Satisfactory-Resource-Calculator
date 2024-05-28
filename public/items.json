@@ -1,0 +1,27 @@
+[
+  {
+    "id": "iron_ore",
+    "title": "Iron Ore",
+    "image": "iron_ore.webp"
+  },
+  {
+    "id": "iron_ingot",
+    "title": "Iron Ingot",
+    "image": "iron_ingot.webp"
+  },
+  {
+    "id": "iron_plate",
+    "title": "Iron Plate",
+    "image": "iron_plate.webp"
+  },
+  {
+    "id": "iron_rod",
+    "title": "Iron Rod",
+    "image": "iron_rod.webp"
+  },
+  {
+    "id": "copper_ore",
+    "title": "Copper Ore",
+    "image": "Copper_Ore.webp"
+  }
+]
